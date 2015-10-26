@@ -1,0 +1,49 @@
+body {
+	background-color: #FFC2C2;
+	font-family: Tahoma, Arial;
+	text-decoration: none;
+}
+
+h1 {
+	color: #3D003D;
+	font-size: 25px;
+}
+
+h2 {
+	color: navy;
+	font-size: 20px;
+}
+
+h3 {
+	color: navy;
+	font-size: 16px;
+}
+
+.container {
+	margin: auto;
+	width: 1000px;
+}
+
+.me {
+	width: 340px;
+	float: left;
+	display: inline-block;
+}
+
+.details { 
+	width: 640px;
+	float: right;
+	display: inline-block;
+}
+
+/*.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background: #660066;
+   z-index: 2;
+   clear: both;
+}
+*/
